@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1507041851 source:d:\tapia ramiro\tapia.ramiro\lib.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1507041978 d:\tapia ramiro\tapia.ramiro\lib.h
+
+1507041978 source:d:\tapia ramiro\tapia.ramiro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
